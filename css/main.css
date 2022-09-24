@@ -5,6 +5,7 @@
 }
 
 body{
+    padding-left: auto;
     margin: 0 auto;
     font-family: 'Anonymous Pro', monospace;
     background-color: #eceff1;
